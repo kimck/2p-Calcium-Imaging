@@ -12,3 +12,4 @@ GUI for implementing the previously published ICA/PCA method from Mukamel et al.
 # Software requirements
 MATLAB
 CellSort (https://github.com/mukamel-lab/CellSort)
+Shaded Errorbar (script included here) (https://www.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar)
